@@ -1,17 +1,24 @@
-<h2 align="left">𝓟𝓻𝓸𝓽𝓮𝓬𝓽𝓲𝓸𝓷-𝓙𝓼</h2>
+<h2 align="left">Protection-Js</h2>
 
-###
+---
 
-<h2 align="left">>>----------------<< 𝓢𝓾𝓹 𝓟𝓻𝓸𝓽𝓮𝓬𝓽𝓲𝓸𝓷؟ >>-----------------<< <br>𝓐𝓷𝓽𝓲 𝓞𝓹𝓮𝓷 𝓓𝓮𝓿 𝓽𝓸𝓸𝓵 𝓐𝓷𝓽𝓲 𝓞𝓹𝓮𝓷 𝓬𝓸𝓷𝓼𝓸𝓵𝓮.𝓵𝓸𝓰 𝓐𝓭𝓿𝓪𝓷𝓬𝓮𝓭 𝓫𝓻𝓸𝔀𝓼𝓮𝓻 𝓼𝓬𝓪𝓷𝓷𝓲𝓷𝓰 𝓹𝓻𝓸𝓽𝓮𝓬𝓽𝓲𝓸𝓷 𝓐𝓭𝓿𝓪𝓷𝓬𝓮𝓭 𝓦𝓮𝓫 𝓟𝓻𝓸𝓽𝓮𝓬𝓽𝓲𝓸𝓷 𝓟𝓻𝓮𝓿𝓮𝓷𝓽 𝓻𝓲𝓰𝓱𝓽-𝓬𝓵𝓲𝓬𝓴𝓲𝓷𝓰 𝓐𝓷𝓽𝓲 𝓢𝓬𝓻𝓮𝓮𝓷𝓢𝓱𝓸𝓽 ( 25% ) 𝓐𝓷𝓽𝓲 𝓲𝓯𝓻𝓪𝓶𝓮 𝓑𝓪𝓷𝓷𝓭 𝓤𝓼𝓮𝓻 ( 𝓑𝓔𝓣𝓐 )<br> >>------------<< 𝓟𝓻𝓸𝓽𝓮𝓬𝓽𝓲𝓸𝓷 𝓑𝔂 𝓑𝓞𝓝𝓐𝓧----------------<<</h2>
+### Features & Protections
 
-###
+* **Anti Open DevTools:** Prevents users from opening browser developer tools.
+* **Anti Open console.log:** Restricts console logging and inspection.
+* **Advanced Browser Scanning Protection:** Scans and defends against automated browser manipulation.
+* **Advanced Web Protection:** Core defensive measures for web apps.
+* **Prevent Right-Clicking:** Disables the browser context menu.
+* **Anti-Screenshot (25%):** Partial prevention/mitigation of screen captures.
+* **Anti-iFrame:** Prevents clickjacking by blocking iframe embedding.
+* **Banned User (BETA):** User access control and blocking capabilities.
 
-<h2 align="left">𝓦𝓱𝓸 𝓾𝓼𝓮𝓭 𝓲𝓽</h2>
+> **Protection By BONAX**
 
-###
+---
+
+### Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
 </div>
-
-###
