@@ -13,7 +13,7 @@
 * **Anti-iFrame:** Prevents clickjacking by blocking iframe embedding.
 * **Banned User (BETA):** User access control and blocking capabilities.
 
-> **Protection By BONAX**
+> **Protection By BONAxze**
 
 ---
 
